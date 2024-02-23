@@ -3,3 +3,4 @@ hello git branch
 branch first commit
 remoto first commit
 git pull first test
+git clone test
