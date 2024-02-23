@@ -1,3 +1,4 @@
 hello git
 hello git branch
-branch fitst commit
+branch first commit
+remoto first commit
